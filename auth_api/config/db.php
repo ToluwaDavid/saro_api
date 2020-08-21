@@ -1,3 +1,3 @@
 <?php
-$conn = new mysqli('127.0.0.1', 'geniusex_ioexam', 'Awe_s3un', 'geniusex_saro');
+$conn = new mysqli('185.27.133.5', 'geniusex_awesome', 'Awe_s3un', 'geniusex_saro');
 ?>
